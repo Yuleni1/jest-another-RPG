@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Yuleni1/jest-another-RPG#readme",
   "dependencies": {
-    "inquirer": "^9.0.0"
+    "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^28.1.2"
